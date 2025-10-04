@@ -16,5 +16,5 @@ while True:
     elif guess > number:
         print("太大了！")
     else:
-        print("恭喜你，猜对了！")
+        print("恭喜你，猜对了！666")
         break
